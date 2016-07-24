@@ -136,7 +136,7 @@ body.fullscreen #footer {
 
 
 
-ul.soc-icons { list-style: none; display: inline-block; vertical-align: top; padding: 0 0 1.5em  .5em; line-height: 1.1; position: relative; z-index: 99; }
+ul.soc-icons { list-style: none; display: inline-block; vertical-align: top; padding: 0 0 1.5em  .5em; font-size: 1em; line-height: 1.1; position: relative; z-index: 99; }
 ul.soc-icons::after { content: ""; display: block; clear: both; }
 ul.soc-icons li { display: inline-block; padding: 0 0 0 1em; font-size: 1.5em; }
 ul.soc-icons li a { text-decoration: none !important;}
