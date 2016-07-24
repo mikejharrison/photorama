@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: MIKE HARRISON PHOTOGRAPHY
 email: ""
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
+url: "http://mikejharrison.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false # disqus
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "http://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "http://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "http://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://mikejharrison.github.io/photorama/gallery/"  
+  - JOURNAL: "http://mikejharrison.github.io/photorama/journal/"
+  - ABOUT: "http://mikejharrison.github.io/photorama/about/"
 
 # All translation keys
 translations:
